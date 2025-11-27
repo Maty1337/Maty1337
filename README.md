@@ -38,11 +38,6 @@ Sistema de gestión de stock con **Spring Boot + React**, filtrado avanzado, JPA
 
 ---
 
-## 📊 GitHub Stats
-
-![Maty1337 GitHub stats](https://github-readme-stats.vercel.app/api?username=Maty1337&show_icons=true&theme=dark)
-
----
 
 ## 📫 Contacto
 
