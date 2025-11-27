@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Matias Buenaventura
 
-<!--
-**Maty1337/Maty1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de Software con experiencia en **PHP (MVC)**, **Java + Spring Boot**, **MySQL**, **JavaScript**, **React**, **MongoDB**, **APIs REST** y herramientas modernas como **Gulp**, **Sass** y **Git/GitHub**.  
+Me gusta crear soluciones completas, desde el backend hasta la parte visual, aplicando buenas prácticas y metodologías ágiles como **Scrum**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+
+**Backend:**  
+PHP (MVC) • Java + Spring Boot • MySQL • MongoDB • APIs REST  
+
+**Frontend:**  
+HTML • CSS • SCSS • JavaScript • React • Gulp  
+
+**Herramientas:**  
+Git / GitHub • Composer • Node.js • Scrum
+
+---
+
+## 🧩 Proyectos Destacados
+
+### 🏡 Bienes Raíces MVC  
+Aplicación web en PHP MVC con panel admin, CRUD completo, subida de imágenes, router propio y base de datos MySQL.  
+🔗 https://github.com/Maty1337/bienesraicesMVC
+
+### 💇‍♂️ AppSalon MVC  
+Sistema de reservas de turnos para salones, hecho con PHP MVC, SCSS, MySQL y autenticación.  
+🔗 https://github.com/Maty1337/AppSalon-MVC
+
+### 🏙️ Barrio MVC  
+Proyecto fullstack con **API REST en Java (Spring Boot)** + aplicación MVC en PHP para gestionar accesos, reclamos y vecinos.  
+🔗 https://github.com/Maty1337/Barrio-MVC
+
+### 📦 StockTBS  
+Sistema de gestión de stock con **Spring Boot + React**, filtrado avanzado, JPA/Hibernate y MySQL.  
+🔗 https://github.com/Maty1337/stock-tbs
+
+---
+
+## 📊 GitHub Stats
+
+![Maty1337 GitHub stats](https://github-readme-stats.vercel.app/api?username=Maty1337&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contacto
+
+📧 **Email:** matidavidbuena@gmail.com  
+🐙 **GitHub:** https://github.com/Maty1337  
+💼 Portfolio (próximamente)
+
+---
+
+### 🙌 Gracias por visitar mi perfil
+¡Siempre estoy abierto a colaborar o aprender algo nuevo!
