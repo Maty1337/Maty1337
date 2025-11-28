@@ -34,7 +34,7 @@ Proyecto fullstack con **API REST en Java (Spring Boot)** + aplicación MVC en P
 
 ### 📦 StockTBS  
 Sistema de gestión de stock con **Spring Boot + React**, filtrado avanzado, JPA/Hibernate y MySQL.  
-🔗 https://github.com/Maty1337/stock-tbs
+🔗 https://github.com/JuaniMolinaa/stock-tbs
 
 ---
 
