@@ -43,7 +43,7 @@ Sistema de gestión de stock con **Spring Boot + React**, filtrado avanzado, JPA
 
 📧 **Email:** matidavidbuena@gmail.com  
 🐙 **GitHub:** https://github.com/Maty1337  
-💼 Portfolio:** https://maty1337.github.io
+💼 **Portfolio:** https://maty1337.github.io
 
 ---
 
