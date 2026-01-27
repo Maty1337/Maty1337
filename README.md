@@ -20,6 +20,10 @@ Git / GitHub • Composer • Node.js • Scrum
 
 ## 🧩 Proyectos Destacados
 
+### 🌐 DevWebCamp MVC
+Es una plataforma web desarrollada en PHP (MVC) para la gestión de eventos y conferencias, con registro de usuarios, panel administrativo e integración de pagos mediante PayPal.
+🔗 https://github.com/Maty1337/DevWebCamp
+
 ### 🏡 Bienes Raíces MVC  
 Aplicación web en PHP MVC con panel admin, CRUD completo, subida de imágenes, router propio y base de datos MySQL.  
 🔗 https://github.com/Maty1337/bienesraicesMVC
