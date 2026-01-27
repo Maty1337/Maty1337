@@ -22,6 +22,7 @@ Git / GitHub • Composer • Node.js • Scrum
 
 ### 🌐 DevWebCamp MVC
 Es una plataforma web desarrollada en PHP (MVC) para la gestión de eventos y conferencias, con registro de usuarios, panel administrativo e integración de pagos mediante PayPal.
+
 🔗 https://github.com/Maty1337/DevWebCamp
 
 ### 🏡 Bienes Raíces MVC  
