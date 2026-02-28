@@ -23,19 +23,19 @@ Git / GitHub • Composer • Node.js • Scrum
 ### 🌐 DevWebCamp MVC
 Es una plataforma web desarrollada en PHP (MVC) para la gestión de eventos y conferencias, con registro de usuarios, panel administrativo e integración de pagos mediante PayPal.
 
-🔗 https://github.com/Maty1337/DevWebCamp
+🔗 https://github.com/Matybdev/DevWebCamp
 
 ### 🏡 Bienes Raíces MVC  
 Aplicación web en PHP MVC con panel admin, CRUD completo, subida de imágenes, router propio y base de datos MySQL.  
-🔗 https://github.com/Maty1337/bienesraicesMVC
+🔗 https://github.com/Matybdev/bienesraicesMVC
 
 ### 💇‍♂️ AppSalon MVC  
 Sistema de reservas de turnos para salones, hecho con PHP MVC, SCSS, MySQL y autenticación.  
-🔗 https://github.com/Maty1337/AppSalon-MVC
+🔗 https://github.com/Matybdev/AppSalon-MVC
 
 ### 🏙️ Barrio MVC  
 Proyecto fullstack con **API REST en Java (Spring Boot)** + aplicación MVC en PHP para gestionar accesos, reclamos y vecinos.  
-🔗 https://github.com/Maty1337/Barrio-MVC
+🔗 https://github.com/Matybdev/Barrio-MVC
 
 ### 📦 StockTBS  
 Sistema de gestión de stock con **Spring Boot + React**, filtrado avanzado, JPA/Hibernate y MySQL.  
